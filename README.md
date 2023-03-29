@@ -15,7 +15,7 @@
 <div  style="display: inline_block">
 <img align="center" alt="jvbt3-flutter" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="center" alt="jvbt3-dart" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"" />
-<img align="right" style="margin-left:45px; width:100%; "src="https://media.discordapp.net/attachments/1078498404763697214/1085265793425612923/Design_sem_nome_1.gif?width=150&height=150"/>
+width=150&height=150"/>
 </div>
 
 ##
