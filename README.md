@@ -15,7 +15,7 @@
 <div  style="display: inline_block">
 <img align="center" alt="jvbt3-flutter" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="center" alt="jvbt3-dart" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"" />
-width=150&height=150"/>
+
 </div>
 
 ##
