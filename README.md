@@ -25,5 +25,5 @@
 <a href="https://www.linkedin.com/in/jvbt3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/channels/jvbt3#8921" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-
+<br>
 <img src="https://media.discordapp.net/attachments/1078498404763697214/1085265793425612923/Design_sem_nome_1.gif?width=150&height=150"/>
