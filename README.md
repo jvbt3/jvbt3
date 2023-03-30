@@ -6,7 +6,7 @@
 
 <div>
 <a href="https://github.com/jvbt3">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvbt3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvbt3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbt3&layout=compact&langs_count=1&theme=dracula"/>
 <img src="https://media.discordapp.net/attachments/1078498404763697214/1085265793425612923/Design_sem_nome_1.gif?width=150&height=150"/>
 </div>
