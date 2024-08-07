@@ -1,6 +1,6 @@
 ### Olá, Eu sou o João! 👋
 
-- 🔭 Trabalhando com Suporte de ERP e Desenvolvimento Front-end
+- 🔭 Desenvolvimento Mobile
 - 🌱 Estudando Flutter/Dart
 - 📫 Entre em contato: joaovitormartins077@gmail.com
 
