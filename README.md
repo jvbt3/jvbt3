@@ -1,5 +1,6 @@
 ### Olá, Eu sou o João! 👋
 
+- 🧑‍💼 MGA Sistemas - Mobile Developer
 - 🔭 Desenvolvimento Mobile
 - 🌱 Estudando Flutter/Dart
 - 📫 Entre em contato: joaovitormartins077@gmail.com
